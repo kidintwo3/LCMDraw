@@ -4,6 +4,7 @@
 Completely standalone (No Python install needed)
 
 _Download from the releases_
+( You need .NET installed for it to run properly: https://dotnet.microsoft.com/en-us/download )
 
 - Local (Needs Nvidia card)
 - Easy to use
